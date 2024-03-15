@@ -1,0 +1,8 @@
+type Example {
+  name: String
+  description: String
+}
+
+type Query {
+  example: Example
+}
